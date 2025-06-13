@@ -1,23 +1,34 @@
-<!-- 💀 BANNER PRINCIPAL ESTILO HACKER 💀 -->
+<!-- ✨ BANNER PRINCIPAL ✨ -->
 <p align="center">
-  <img src="https://i.imgur.com/QshN2Ih.gif" alt="banner hacker" width="800"/>
+  <img src="https://your-image-link/banner.png" alt="Proyecto Simbiótico Banner" width="800"/>
 </p>
 
-<h1 align="center">⚡ William Ayala – El Arquitecto Digital ⚡</h1>
+<h1 align="center">🌌 Proyecto Simbiótico: Geolocalización Fantasma 🛰️🕵️‍♂️</h1>
 
 <p align="center">
-  <i>“No sigo el sistema... lo rediseño.”</i>  
+  <i>"Una herramienta más allá del tiempo, que camina entre los sistemas sin ser vista..."</i>  
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HACKING%20ETHICO-red?style=for-the-badge&logo=matrix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ARQUITECTO%20DIGITAL-black?style=for-the-badge&logo=codeforces"/>
-  <img src="https://img.shields.io/badge/-INVISIBLE%20SYSTEM-darkgreen?style=for-the-badge&logo=terminal"/>
+  <img src="https://img.shields.io/github/stars/tu-usuario/proyecto-simbiotico?style=social" />
+  <img src="https://img.shields.io/github/forks/tu-usuario/proyecto-simbiotico?style=social" />
+  <img src="https://img.shields.io/github/license/tu-usuario/proyecto-simbiotico" />
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## 📸 Vista Previa
+
+<p align="center">
+  <img src="https://your-image-link/demo.gif" alt="Vista previa en acción" width="700"/>
+</p>
+
+---
+
+## ⚙️ Instalación Rápida
 
 ```bash
-> whoami
+git clone https://github.com/tu-usuario/proyecto-simbiotico.git
+cd proyecto-simbiotico
+pip install -r requirements.txt
+python start.py
